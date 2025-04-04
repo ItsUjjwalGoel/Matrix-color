@@ -1,5 +1,6 @@
 import React from 'react'
-import Matrix from './assets/matrix.jsx'
+//changes done
+import Matrix from './assets/Matrix.jsx'
 function App() {
   return (
     <>
